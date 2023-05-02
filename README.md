@@ -50,4 +50,24 @@ Here are the programming languages and technologies I'm proficient in:
 ##      
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aringopalan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aringopalan" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aringopalan&" alt="aringopalan" /></p>
 
+##
+
+Languages and Tools I am Learning:
+
+<a href="https://d3js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</a>
+
 
