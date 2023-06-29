@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amigodeplatino.me/](https://amigodeplatino.me/)
 
-- 📫 How to reach me **aringopalan13489@gmail.com**
+- 📫 How to reach me **NalluSwami13489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +48,7 @@ Here are the programming languages and technologies I'm proficient in:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ##      
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aringopalan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aringopalan" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aringopalan&" alt="aringopalan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NalluSwami&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NalluSwami" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NalluSwami&" alt="NalluSwami" /></p>
 
 ##
 
