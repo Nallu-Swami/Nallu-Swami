@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
-- 🤝 I’m looking for help with **Opensource Development**
+- 🤝 I’m looking for help with **Open Source Development**
 
 - 👨‍💻 All of my projects are available at [https://amigodeplatino.me/](https://amigodeplatino.me/)
 
-- 📫 How to reach me **NalluSwami13489@gmail.com**
+- 📫 How to reach me **aringopalan13489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,10 @@
 <a href="https://instagram.com/nallu_swami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nallu_swami" height="30" width="40" /></a>
 </p>
 
-
+## Achievements
+- 🏆 IEEE YESIST 12 (Egypt) 2023 Finalist 
+- 🏆 Google Developer Solution Challenge Top 10 Finalist (4th Place)
+- Only team from India in Google Developer Solution Challenge in Top 10
 
 ## Skills and Technologies
 Here are the programming languages and technologies I'm proficient in:
@@ -47,6 +50,7 @@ Here are the programming languages and technologies I'm proficient in:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 ##      
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NalluSwami&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NalluSwami" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NalluSwami&" alt="NalluSwami" /></p>
 
@@ -69,5 +73,3 @@ Languages and Tools I am Learning:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
-
-
