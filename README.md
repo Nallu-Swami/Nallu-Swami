@@ -7,7 +7,7 @@
 
 - 👨‍💻You can know more about me on my Website - [https://amigodeplatino.me/](https://amigodeplatino.me/)
 
-- 📫 How to reach me **aringopalan13489@gmail.com**
+- 📫 How to reach me **Arin.Technovate@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,11 +17,12 @@
 </p>
 
 ## Achievements
-- My Startup UMACE has been Selected in SharkTank India
-- 🏆Finalist in Smart India Hackathon 2023
-- 🏆 IEEE YESIST 12 (Egypt) 2023 Finalist 
-- 🏆 Google Developer Solution Challenge Top 10 Finalist (4th Place)
-- Only team from India in Google Developer Solution Challenge in Top 10
+- 🏆  One of My Startup made it to SharkTank India Season 3 Round 2 - UMACE
+- 🏆 Finalist in Smart India Hackathon 2023 - NERAP 
+- 🏆 IEEE YESIST 12 (Egypt) 2023 Finalist - Femunity
+- 🏆 Google Developer Solution Challenge Top 10 Finalist 2023 (4th Place) - Femunity
+- 🏆 Qualified for Microsoft Imagine Cup MVP Round - Rotm
+- 🏆 Only team from India in Google Developer Solution Challenge in Top 10
 
 ## Skills and Technologies
 Here are the programming languages and technologies I'm proficient in:
