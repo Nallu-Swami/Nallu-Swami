@@ -1,4 +1,4 @@
-<h1 align="center">My name is Arin Yado</h1>
+<h1 align="center">My name is Arin Yadav</h1>
 
 <h2>Top 10 Global Finalist</h2>
 <a href="https://ibb.co/vJJMnjS">
